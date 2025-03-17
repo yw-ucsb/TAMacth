@@ -141,3 +141,6 @@ dmypy.json
 # MacOS system file
 .DS_Store
 *.yaml
+
+# Pycharm related
+.idea/
